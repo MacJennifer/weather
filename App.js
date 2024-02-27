@@ -96,6 +96,7 @@ const styles = StyleSheet.create({
     flexDirection: "column",
     width: "100%",
     height: "auto",
+    opacity: 0.9,
   },
   textInput: {
     borderBottomWidth: 3,
@@ -138,5 +139,6 @@ const styles = StyleSheet.create({
   description: {
     fontSize: 45,
     fontWeight: "500",
+    textAlign: "center",
   },
 });
